@@ -22,3 +22,8 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# external packages folder
+vendor/
+
+glide.lock

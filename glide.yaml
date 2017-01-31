@@ -1,0 +1,5 @@
+package: github.com/diegofernandes/context-test
+import:
+- package: golang.org/x/net
+  subpackages:
+  - context
